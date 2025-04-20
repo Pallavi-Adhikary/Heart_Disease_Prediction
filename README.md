@@ -22,4 +22,4 @@ Get an instant prediction about heart disease risk.
 
 Clear and user-friendly results.
 
-[Try the Heart Disease Prediction App](https://heartdiseasepredictor-vj34seezxazs34qknf5tpq.streamlit.app/)
+[Try the Heart Disease Prediction App](https://heart-diagnosis.streamlit.app/)
